@@ -1,11 +1,15 @@
-html {
-text-size: 16px;
-
-}
-
-
-.display {
-  height: 25vph;
-text-size: 3em;
-
-}
+ 
+        #calculator {
+            width: 200px;
+            margin: 0 auto;
+        }
+        input[type="text"] {
+            width: 100%;
+        }
+        button {
+            width: 48px;
+            height: 48px;
+            font-size: 18px;
+            margin: 4px;
+        }
+    
